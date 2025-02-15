@@ -1,0 +1,3 @@
+# React Router Dom Link Component URL Update Issue
+
+This repository demonstrates a bug in React Router Dom where the Link component fails to correctly update the URL in the browser. The issue is that the component ignores changes and keeps the same URL.  The solution involves checking for typos, ensuring correct path definitions in routes, and double checking that the Link component is correctly imported and rendered.
